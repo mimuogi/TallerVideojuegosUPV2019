@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/*Useless comment */
+
 public class CharacterMovement : MonoBehaviour {
 
     [Header("Movement")]
